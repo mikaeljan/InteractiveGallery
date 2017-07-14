@@ -45,7 +45,10 @@ img {
     display: inline-block;
     float: right;
 }
-
+/* -------  Footer -------- */
+.main-footer {
+    text-align: center;
+}
 /* ---- Float clearfix ---- */
 
 .clearfix::after {
