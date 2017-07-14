@@ -1,12 +1,10 @@
-// Lightbox code
-let $overlay = $("<div id='overlay'> </div>");
-let $img = $("<img>");
-let $caption = $("<p> </p>");
-$("body").append($overlay);
-$overlay.append($img);
-$overlay.append($caption);
+// Use manual filtering till you get it
 
+// Profit.
 
-
-//Search aby cistil postupne obrazky
-//Add animations when filtering the gallery of photos
+// Fix markup issues it sux later on!
+//Lightbos firing plugin, changed maxWidth and resizing
+lightbox.option({
+    'resizeDuration': 200,
+    'maxWidth': 800,
+})
