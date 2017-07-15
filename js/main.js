@@ -24,5 +24,5 @@ $(document).ready(function(){
 //Lightbox firing plugin, changed maxWidth and resizing
 lightbox.option({
     'resizeDuration': 200,
-    'maxWidth': 800,
-})
+    'maxWidth': 800
+});
