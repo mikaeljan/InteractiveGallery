@@ -62,3 +62,10 @@ img {
     display: table;
     clear: both;
 }
+
+@media (max-width:500px) {
+    #search {
+        max-width: 60%;
+        min-width:  185px;
+    }
+}
