@@ -9,4 +9,4 @@ Pictures fade in and fade out according to user's input.
 
 ## Contact
 For any questions please feel free to contact me:<br />
-mikael.janek@gmail.com
+<a href="mailto:mikael.janek@gmail.com">mikael.janek@gmail.com</a>
